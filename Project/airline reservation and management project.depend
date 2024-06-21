@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1689919291 source:c:\users\nirma\onedrive\desktop\c++ programs\airline reservation and management project\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<ctime>
+
+1689919291 source:f:\all projects\airline reservation and management project\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<ctime>
+
